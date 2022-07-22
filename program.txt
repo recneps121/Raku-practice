@@ -1,0 +1,6 @@
+(f(; Hello World
+(* 3 x2x)
+; Goodbye World
+"Hello World"
+(+ 3 x)
+"Goodbye World"))
